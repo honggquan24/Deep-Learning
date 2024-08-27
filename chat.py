@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Chat bot')
+st.title('AI assistant for learning project')
 
 with st.sidebar:
     st.text_input('Email: ')
